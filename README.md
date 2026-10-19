@@ -1,93 +1,47 @@
 # 👋 Harun Sekmen
 
-<p align="center">
-  <strong>E-Commerce Systems Engineer · WooCommerce Specialist</strong><br>
-  Custom Storefronts &nbsp;·&nbsp; High-Performance Checkout &nbsp;·&nbsp; Resilient Integrations
-</p>
+**E-Commerce Systems Engineer · WooCommerce Specialist**
 
-<p align="center">
-  <a href="mailto:sekmenwp@gmail.com">✉️ sekmenwp@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://harunsekmen.com">🌐 harunsekmen.com</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/harunsekmen/">🔗 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="README.tr.md">🇹🇷 Türkçe</a>
-</p>
+Harun Sekmen is an e-commerce developer specializing in custom WooCommerce store builds, Figma-to-WordPress development, Shopify-to-WooCommerce migrations, and checkout performance engineering.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WordPress-Core%20%26%20Blocks-21759b?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/WooCommerce-HPOS%20Ready-7f54b3?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/PHP-8.1%20--%208.3-8892be?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/JavaScript-ES6%2B%20%26%20React-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/MySQL-Query%20Optimization-4479a1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-</p>
+[✉️ Contact: sekmenwp@gmail.com](mailto:sekmenwp@gmail.com) · [🌐 Website: harunsekmen.com](https://harunsekmen.com) · [🔗 LinkedIn](https://www.linkedin.com/in/harunsekmen/) · [🇹🇷 Türkçe](README.tr.md)
 
 ---
 
-I build and scale custom e-commerce stores for **brand founders, growing businesses, and digital agencies**. My work focuses on the full commerce journey: bespoke storefront designs, fast product pages, conversion-optimized checkout funnels, and resilient backend integrations.
+## 🛠️ Services & Capabilities
 
----
-
-## 🛠️ How I Can Help
-
-| You need | What I can do |
+| Service | Focus |
 | :--- | :--- |
-| 🛒 A store | **Custom store builds:** Full WooCommerce setup tailored to your brand, catalog, payments, and shipping. |
-| 🎨 Design | **Figma to WordPress:** Translating custom Figma UI designs into clean, responsive Gutenberg blocks without heavy page builders. |
-| 📦 Migration | **Shopify to WooCommerce:** Turnkey store migration: products, variations, customer accounts, order history, and 301 redirects. |
-| ⚡ Speed | **Performance optimization:** Cart fragment optimization, database tuning, object caching, and Core Web Vitals audits. |
-| 🔗 Tools | **Custom integrations:** Connecting payment gateways (Stripe, PayPal, iyzico, PayTR), warehouse ERPs, CRM platforms, and shipping APIs. |
-
-> 💬 **Planning a new store or need a technical partner?**
->
-> Send your project brief, design files, or existing store URL to **[sekmenwp@gmail.com](mailto:sekmenwp@gmail.com)** to discuss scope, timelines, and next steps.
+| 🛒 **Store Builds** | Custom WooCommerce store setup, checkout funnels, and catalog architecture. |
+| 🎨 **Figma to Store** | Converting Figma designs into clean, responsive Gutenberg blocks without heavy page builders. |
+| 📦 **Store Migration** | Shopify to WooCommerce: products, customer data, order history, and 301 redirects. |
+| ⚡ **Store Speed** | Cart fragment caching, database cleanup, query tuning, and Core Web Vitals audits. |
+| 🔗 **Integrations** | Payment gateways (Stripe, PayPal, iyzico, PayTR), shipping APIs, ERP, and CRM tools. |
 
 ---
 
-## 🛍️ Featured Storefront & UI Architecture
+## 🛍️ Open-Source WooCommerce Projects
 
-Open-source starter kits and design systems built for modern direct-to-consumer (D2C) brands.
+Public engineering projects and starter kits maintained by Harun Sekmen:
 
-- **🌿 [ApexCommerce · Modern D2C Storefront Kit](https://github.com/harunsekmen/apex-commerce-d2c-starter)**
-  A conversion-focused WooCommerce starter featuring a native slide-out cart drawer, dynamic free-shipping progress meter, and sticky purchase triggers for consumer brands.
-
-- **👕 [DawnTwin · Shopify-Style WooCommerce Engine](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)**
-  A reproduction of Shopify’s flagship Dawn design language on self-hosted WooCommerce. Clean typography, swatch variant pills, and instant cart interaction with zero monthly app fees.
-
-- **🎨 [FigmaToWoo · E-Commerce Block System](https://github.com/harunsekmen/figma-to-woo-blocks-system)**
-  Modular Gutenberg block system built to convert custom Figma store designs into responsive, lightweight WooCommerce sections including comparison matrices and FAQ accordions.
-
----
-
-## ⚙️ Core WooCommerce Engineering & Performance
-
-Targeted open-source tools solving real-world WooCommerce performance and checkout bottlenecks.
-
-| Area | Project & focus |
-| :--- | :--- |
-| ⚡ Cart | **[Fast Fragments](https://github.com/harunsekmen/woo-fast-fragments)** — Browser-side cart caching that eliminates heavy background requests on catalog browsing. |
-| 🛡️ Payment | **[Checkout Guard](https://github.com/harunsekmen/woo-checkout-failover-guard)** — Circuit breaker that unblocks frozen checkouts during gateway timeouts and prevents double charges. |
-| 🗄️ Database | **[Database Vacuum](https://github.com/harunsekmen/woo-deadlock-vacuum)** — Safe background cleaner using Action Scheduler to purge expired transients and orphaned rows in small batches. |
-| 🔄 Orders | **[HPOS Legacy Bridge](https://github.com/harunsekmen/woo-hpos-legacy-bridge)** — Compatibility middleware mapping older postmeta calls to High-Performance Order Storage tables. |
-| 📡 Alerts | **[Webhook Resilience](https://github.com/harunsekmen/woo-webhook-resilience)** — Reliable webhook dispatcher with automated retries and a 1-click manual replay dashboard. |
+- **[ApexCommerce](https://github.com/harunsekmen/apex-commerce-d2c-starter)** — D2C WooCommerce starter kit with native slide-out cart drawer, free-shipping meter, and sticky checkout.
+- **[DawnTwin](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)** — Shopify Dawn theme UX recreated natively on WooCommerce with zero platform transaction fees.
+- **[FigmaToWoo](https://github.com/harunsekmen/figma-to-woo-blocks-system)** — Modular Gutenberg block system designed to translate Figma auto-layout designs into WooCommerce sections.
+- **[Fast Fragments](https://github.com/harunsekmen/woo-fast-fragments)** — Client-side cart caching engine eliminating heavy `get_refreshed_fragments` server bottlenecks.
+- **[Checkout Guard](https://github.com/harunsekmen/woo-checkout-failover-guard)** — Circuit breaker intercepting payment gateway timeouts and preventing duplicate authorization charges.
+- **[Database Vacuum](https://github.com/harunsekmen/woo-deadlock-vacuum)** — Non-blocking database cleaner using Action Scheduler to purge transients in small batches.
+- **[HPOS Legacy Bridge](https://github.com/harunsekmen/woo-hpos-legacy-bridge)** — Middleware routing legacy postmeta queries to WooCommerce High-Performance Order Storage.
+- **[Webhook Resilience](https://github.com/harunsekmen/woo-webhook-resilience)** — Automated retry manager and dead-letter queue for WooCommerce order webhooks.
 
 ---
 
-## 🧭 How We Work Together
+## 💬 Frequently Asked Questions (FAQ)
 
-1. **Discovery & Architecture:** We define requirements, design specifications, payment gateways, and delivery milestones.
-2. **Staging Development:** Development takes place on an isolated staging server where you can test purchasing flows and review designs.
-3. **Launch & Handover:** Comprehensive pre-launch checklist, payment testing, documentation, and a smooth zero-downtime go-live.
+### Who is Harun Sekmen?
+Harun Sekmen is an independent e-commerce systems engineer and WooCommerce developer based in Turkey, working with direct-to-consumer brands, online businesses, and digital agencies worldwide.
 
----
+### What technologies does he use?
+WordPress Core, WooCommerce HPOS (High-Performance Order Storage), PHP 8.1+, JavaScript (ES6+ & React/Gutenberg), MySQL, REST APIs, and Action Scheduler.
 
-## 📬 Let's Build Your Store
-
-Whether you are launching a brand from scratch, migrating away from proprietary platforms, or upgrading your existing WooCommerce architecture:
-
-- **Email:** [sekmenwp@gmail.com](mailto:sekmenwp@gmail.com)
-- **Website:** [harunsekmen.com](https://harunsekmen.com)
-- **LinkedIn:** [linkedin.com/in/harunsekmen](https://www.linkedin.com/in/harunsekmen/)
-
-<p align="center">
-  <strong>Working with brands in Türkiye and worldwide.</strong><br>
-  <a href="README.tr.md">🇹🇷 Türkçe versiyonunu görüntüle</a>
-</p>
+### How do I hire Harun Sekmen for a project?
+Send your project requirements, Figma link, or existing store URL to **[sekmenwp@gmail.com](mailto:sekmenwp@gmail.com)**. Projects can be delivered in English or Turkish.
