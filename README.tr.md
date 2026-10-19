@@ -46,24 +46,14 @@
 
 Doğrudan tüketiciye satış yapan (D2C) modern markalar için geliştirdiğim açık kaynak başlangıç iskeletleri ve tasarım sistemleri:
 
-### 🌿 [ApexCommerce · Modern D2C Mağaza Başlangıcı](https://github.com/harunsekmen/apex-commerce-d2c-starter)
-Kayar sepet çekmecesi, dinamik ücretsiz kargo göstergesi ve yapışkan satın alma butonu içeren yüksek dönüşümlü WooCommerce başlangıç iskeleti.
+- **🌿 [ApexCommerce · Modern D2C Mağaza Başlangıcı](https://github.com/harunsekmen/apex-commerce-d2c-starter)**
+  Kayar sepet çekmecesi, dinamik ücretsiz kargo göstergesi ve yapışkan satın alma butonu içeren yüksek dönüşümlü WooCommerce başlangıç iskeleti.
 
-[![ApexCommerce Storefront Önizlemesi](https://raw.githubusercontent.com/harunsekmen/apex-commerce-d2c-starter/main/docs/assets/d2c-storefront-hero.png)](https://github.com/harunsekmen/apex-commerce-d2c-starter)
+- **👕 [DawnTwin · Shopify Tarzı WooCommerce Motoru](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)**
+  Shopify'ın popüler Dawn tema deneyiminin kendi sunucunuzda çalışan WooCommerce uyarlaması. Minimalist tipografi, tıklanabilir varyant butonları ve sıfır komisyon.
 
----
-
-### 👕 [DawnTwin · Shopify Tarzı WooCommerce Motoru](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)
-Shopify'ın popüler Dawn tema deneyiminin kendi sunucunuzda çalışan WooCommerce uyarlaması. Minimalist tipografi, tıklanabilir varyant butonları ve sıfır komisyon.
-
-[![DawnTwin Storefront Önizlemesi](https://raw.githubusercontent.com/harunsekmen/shopify-dawn-woocommerce-twin/main/docs/assets/shopify-dawn-storefront-hero.png)](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)
-
----
-
-### 🎨 [FigmaToWoo · E-Ticaret Blok Tasarım Sistemi](https://github.com/harunsekmen/figma-to-woo-blocks-system)
-Özel Figma tasarımlarını hızlı ve hafif WooCommerce sayfalarına dönüştürmek için geliştirilmiş modüler Gutenberg blokları (karşılaştırma tablosu, SSS akordeonu vb.).
-
-[![FigmaToWoo Blokları Önizlemesi](https://raw.githubusercontent.com/harunsekmen/figma-to-woo-blocks-system/main/docs/assets/figma-to-woo-blocks-showcase.png)](https://github.com/harunsekmen/figma-to-woo-blocks-system)
+- **🎨 [FigmaToWoo · E-Ticaret Blok Tasarım Sistemi](https://github.com/harunsekmen/figma-to-woo-blocks-system)**
+  Özel Figma tasarımlarını hızlı ve hafif WooCommerce sayfalarına dönüştürmek için geliştirilmiş modüler Gutenberg blokları (karşılaştırma tablosu, SSS akordeonu vb.).
 
 ---
 
@@ -101,4 +91,3 @@ Sıfırdan bir mağaza kurmak, Shopify'dan taşınmak veya mevcut WooCommerce al
   <strong>Türkiye'deki ve dünyadaki markalarla çalışıyorum.</strong><br>
   <a href="README.md">🇬🇧 View English version</a>
 </p>
-

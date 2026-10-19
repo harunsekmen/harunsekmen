@@ -46,24 +46,14 @@ I build and scale custom e-commerce stores for **brand founders, growing busines
 
 Open-source starter kits and design systems built for modern direct-to-consumer (D2C) brands.
 
-### 🌿 [ApexCommerce · Modern D2C Storefront Kit](https://github.com/harunsekmen/apex-commerce-d2c-starter)
-A conversion-focused WooCommerce starter featuring a native slide-out cart drawer, dynamic free-shipping progress meter, and sticky purchase triggers for consumer brands.
+- **🌿 [ApexCommerce · Modern D2C Storefront Kit](https://github.com/harunsekmen/apex-commerce-d2c-starter)**
+  A conversion-focused WooCommerce starter featuring a native slide-out cart drawer, dynamic free-shipping progress meter, and sticky purchase triggers for consumer brands.
 
-[![ApexCommerce Storefront Preview](https://raw.githubusercontent.com/harunsekmen/apex-commerce-d2c-starter/main/docs/assets/d2c-storefront-hero.png)](https://github.com/harunsekmen/apex-commerce-d2c-starter)
+- **👕 [DawnTwin · Shopify-Style WooCommerce Engine](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)**
+  A reproduction of Shopify’s flagship Dawn design language on self-hosted WooCommerce. Clean typography, swatch variant pills, and instant cart interaction with zero monthly app fees.
 
----
-
-### 👕 [DawnTwin · Shopify-Style WooCommerce Engine](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)
-A reproduction of Shopify’s flagship Dawn design language on self-hosted WooCommerce. Clean typography, swatch variant pills, and instant cart interaction with zero monthly app fees.
-
-[![DawnTwin Storefront Preview](https://raw.githubusercontent.com/harunsekmen/shopify-dawn-woocommerce-twin/main/docs/assets/shopify-dawn-storefront-hero.png)](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)
-
----
-
-### 🎨 [FigmaToWoo · E-Commerce Block System](https://github.com/harunsekmen/figma-to-woo-blocks-system)
-Modular Gutenberg block system built to convert custom Figma store designs into responsive, lightweight WooCommerce sections including comparison matrices and FAQ accordions.
-
-[![FigmaToWoo Blocks Preview](https://raw.githubusercontent.com/harunsekmen/figma-to-woo-blocks-system/main/docs/assets/figma-to-woo-blocks-showcase.png)](https://github.com/harunsekmen/figma-to-woo-blocks-system)
+- **🎨 [FigmaToWoo · E-Commerce Block System](https://github.com/harunsekmen/figma-to-woo-blocks-system)**
+  Modular Gutenberg block system built to convert custom Figma store designs into responsive, lightweight WooCommerce sections including comparison matrices and FAQ accordions.
 
 ---
 
@@ -101,4 +91,3 @@ Whether you are launching a brand from scratch, migrating away from proprietary 
   <strong>Working with brands in Türkiye and worldwide.</strong><br>
   <a href="README.tr.md">🇹🇷 Türkçe versiyonunu görüntüle</a>
 </p>
-
