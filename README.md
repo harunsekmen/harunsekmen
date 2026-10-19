@@ -1,91 +1,104 @@
-<h1 align="center">👋 Harun Sekmen</h1>
+# 👋 Harun Sekmen
 
-<p align="center"><strong>E-Commerce Systems Engineer · WooCommerce Developer</strong></p>
+<p align="center">
+  <strong>E-Commerce Systems Engineer · WooCommerce Specialist</strong><br>
+  Custom Storefronts &nbsp;·&nbsp; High-Performance Checkout &nbsp;·&nbsp; Resilient Integrations
+</p>
 
-<p align="center">🛒 Launch your store &nbsp; · &nbsp; 🎨 Bring your design to life &nbsp; · &nbsp; ⚡ Improve your store</p>
+<p align="center">
+  <a href="mailto:sekmenwp@gmail.com">✉️ sekmenwp@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://harunsekmen.com">🌐 harunsekmen.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/harunsekmen/">🔗 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="README.tr.md">🇹🇷 Türkçe</a>
+</p>
 
-<p align="center"><a href="README.tr.md">🇹🇷 Türkçe</a> &nbsp; · &nbsp; 🇬🇧 English</p>
-
-<p align="center"><a href="mailto:sekmenwp@gmail.com">✉️ Discuss your project</a> &nbsp; · &nbsp; <a href="https://www.upwork.com/freelancers/~01a7a8b58043e6e6d9">💼 Hire me on Upwork</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/harunsekmen/">🔗 LinkedIn</a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-Core%20%26%20Blocks-21759b?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/WooCommerce-HPOS%20Ready-7f54b3?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce">
+  <img src="https://img.shields.io/badge/PHP-8.1%20--%208.3-8892be?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B%20%26%20React-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/MySQL-Query%20Optimization-4479a1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
 ---
 
-I’m Harun, a WordPress and WooCommerce developer working with **brand founders, store owners and agencies**. I build custom online stores, turn designs into storefronts and improve existing shopping experiences. Projects can be discussed in **English or Turkish**.
+I build and scale custom e-commerce stores for **brand founders, growing businesses, and digital agencies**. My work focuses on the full commerce journey: bespoke storefront designs, fast product pages, conversion-optimized checkout funnels, and resilient backend integrations.
 
-## 🛠️ How I can help
+---
+
+## 🛠️ How I Can Help
 
 | You need | What I can do |
 | :--- | :--- |
-| 🛒 A store | **WooCommerce website development:** Custom design, product pages, cart and payment setup. |
-| 🎨 Design | **Figma to WordPress:** Turn your design into a store that works on mobile and desktop. |
-| 📦 Migration | **Shopify to WooCommerce:** Plan product transfers, page redirects and your new store setup. |
-| ⚡ Speed | **WooCommerce speed optimization:** Find what slows your store and improve the shopping experience. |
-| 🔗 Tools | **Store integrations:** Connect payments, shipping, stock and the tools you use to run your business. |
+| 🛒 A store | **Custom store builds:** Full WooCommerce setup tailored to your brand, catalog, payments, and shipping. |
+| 🎨 Design | **Figma to WordPress:** Translating custom Figma UI designs into clean, responsive Gutenberg blocks without heavy page builders. |
+| 📦 Migration | **Shopify to WooCommerce:** Turnkey store migration: products, variations, customer accounts, order history, and 301 redirects. |
+| ⚡ Speed | **Performance optimization:** Cart fragment optimization, database tuning, object caching, and Core Web Vitals audits. |
+| 🔗 Tools | **Custom integrations:** Connecting payment gateways (Stripe, PayPal, iyzico, PayTR), warehouse ERPs, CRM platforms, and shipping APIs. |
 
-> 💬 **Have a store to build or improve?**
+> 💬 **Planning a new store or need a technical partner?**
 >
-> Send your website or design link and a short description to **[sekmenwp@gmail.com](mailto:sekmenwp@gmail.com)**. Tell me what you need and when you want to launch.
-
-## 🛍️ Featured projects
-
-Personal open-source projects with storefront demos and work in progress.
-
-### 🌿 ApexCommerce · A store for a new brand
-
-A skincare store demo showing product presentation, a slide-out cart and a purchase button that stays within reach as you scroll.
-
-**[Explore ApexCommerce →](https://github.com/harunsekmen/apex-commerce-d2c-starter)**
-
-<details>
-<summary>📸 View the storefront demo</summary>
-
-![ApexCommerce skincare storefront demo](https://raw.githubusercontent.com/harunsekmen/apex-commerce-d2c-starter/main/docs/assets/d2c-storefront-hero.png)
-
-</details>
-
-### 👕 DawnTwin · A clean fashion storefront
-
-A Dawn-inspired clothing store demo with a minimal product page, color and size choices, and a slide-out cart.
-
-**[Explore DawnTwin →](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)**
-
-<details>
-<summary>📸 View the storefront demo</summary>
-
-![DawnTwin fashion storefront demo](https://raw.githubusercontent.com/harunsekmen/shopify-dawn-woocommerce-twin/main/docs/assets/shopify-dawn-storefront-hero.png)
-
-</details>
-
-### 🎨 FigmaToWoo · Clear product information
-
-An e-commerce design project exploring comparison tables and FAQ sections to help shoppers find product information.
-
-**[Explore FigmaToWoo →](https://github.com/harunsekmen/figma-to-woo-blocks-system)**
-
-## ⚙️ More WooCommerce projects
-
-These projects explore the everyday problems behind a store: cart updates, checkout errors, order data and delivery notifications.
-
-| Area | Project focus |
-| :--- | :--- |
-| 🛒 Cart | **[Fast Fragments](https://github.com/harunsekmen/woo-fast-fragments)** — How the shopping cart updates as customers browse. |
-| 💳 Payment | **[Checkout Guard](https://github.com/harunsekmen/woo-checkout-failover-guard)** — Helping shoppers understand checkout delays and errors. |
-| 🗄️ Data | **[Database Vacuum](https://github.com/harunsekmen/woo-deadlock-vacuum)** — Cleaning up old store data in small batches. |
-| 🔄 Orders | **[HPOS Legacy Bridge](https://github.com/harunsekmen/woo-hpos-legacy-bridge)** — Compatibility between older order tools and newer WooCommerce stores. |
-| 📡 Alerts | **[Webhook Resilience](https://github.com/harunsekmen/woo-webhook-resilience)** — Retrying order notifications sent to shipping and business tools. |
-
-## 🧭 From your brief to launch
-
-1. **🔍 Agree on the plan** — Define the pages, features, budget and delivery schedule.
-2. **🎨 Review your store** — See the work before launch and test the shopping experience.
-3. **🚀 Launch and hand over** — Prepare the store for launch and document how to manage it.
+> Send your project brief, design files, or existing store URL to **[sekmenwp@gmail.com](mailto:sekmenwp@gmail.com)** to discuss scope, timelines, and next steps.
 
 ---
 
-## 🤝 Let’s talk about your store
+## 🛍️ Featured Storefront & UI Architecture
 
-Launching a brand, redesigning your website or looking for a development partner? Send me your **store or design link, main requirements and target date**.
+Open-source starter kits and design systems built for modern direct-to-consumer (D2C) brands.
 
-**✉️ [sekmenwp@gmail.com](mailto:sekmenwp@gmail.com)** · **💼 [Upwork](https://www.upwork.com/freelancers/~01a7a8b58043e6e6d9)**
+### 🌿 [ApexCommerce · Modern D2C Storefront Kit](https://github.com/harunsekmen/apex-commerce-d2c-starter)
+A conversion-focused WooCommerce starter featuring a native slide-out cart drawer, dynamic free-shipping progress meter, and sticky purchase triggers for consumer brands.
 
-🌍 Working with businesses in Türkiye and international teams. **[🇹🇷 Türkçe](README.tr.md)**
+[![ApexCommerce Storefront Preview](https://raw.githubusercontent.com/harunsekmen/apex-commerce-d2c-starter/main/docs/assets/d2c-storefront-hero.png)](https://github.com/harunsekmen/apex-commerce-d2c-starter)
+
+---
+
+### 👕 [DawnTwin · Shopify-Style WooCommerce Engine](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)
+A reproduction of Shopify’s flagship Dawn design language on self-hosted WooCommerce. Clean typography, swatch variant pills, and instant cart interaction with zero monthly app fees.
+
+[![DawnTwin Storefront Preview](https://raw.githubusercontent.com/harunsekmen/shopify-dawn-woocommerce-twin/main/docs/assets/shopify-dawn-storefront-hero.png)](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)
+
+---
+
+### 🎨 [FigmaToWoo · E-Commerce Block System](https://github.com/harunsekmen/figma-to-woo-blocks-system)
+Modular Gutenberg block system built to convert custom Figma store designs into responsive, lightweight WooCommerce sections including comparison matrices and FAQ accordions.
+
+[![FigmaToWoo Blocks Preview](https://raw.githubusercontent.com/harunsekmen/figma-to-woo-blocks-system/main/docs/assets/figma-to-woo-blocks-showcase.png)](https://github.com/harunsekmen/figma-to-woo-blocks-system)
+
+---
+
+## ⚙️ Core WooCommerce Engineering & Performance
+
+Targeted open-source tools solving real-world WooCommerce performance and checkout bottlenecks.
+
+| Area | Project & focus |
+| :--- | :--- |
+| ⚡ Cart | **[Fast Fragments](https://github.com/harunsekmen/woo-fast-fragments)** — Browser-side cart caching that eliminates heavy background requests on catalog browsing. |
+| 🛡️ Payment | **[Checkout Guard](https://github.com/harunsekmen/woo-checkout-failover-guard)** — Circuit breaker that unblocks frozen checkouts during gateway timeouts and prevents double charges. |
+| 🗄️ Database | **[Database Vacuum](https://github.com/harunsekmen/woo-deadlock-vacuum)** — Safe background cleaner using Action Scheduler to purge expired transients and orphaned rows in small batches. |
+| 🔄 Orders | **[HPOS Legacy Bridge](https://github.com/harunsekmen/woo-hpos-legacy-bridge)** — Compatibility middleware mapping older postmeta calls to High-Performance Order Storage tables. |
+| 📡 Alerts | **[Webhook Resilience](https://github.com/harunsekmen/woo-webhook-resilience)** — Reliable webhook dispatcher with automated retries and a 1-click manual replay dashboard. |
+
+---
+
+## 🧭 How We Work Together
+
+1. **Discovery & Architecture:** We define requirements, design specifications, payment gateways, and delivery milestones.
+2. **Staging Development:** Development takes place on an isolated staging server where you can test purchasing flows and review designs.
+3. **Launch & Handover:** Comprehensive pre-launch checklist, payment testing, documentation, and a smooth zero-downtime go-live.
+
+---
+
+## 📬 Let's Build Your Store
+
+Whether you are launching a brand from scratch, migrating away from proprietary platforms, or upgrading your existing WooCommerce architecture:
+
+- **Email:** [sekmenwp@gmail.com](mailto:sekmenwp@gmail.com)
+- **Website:** [harunsekmen.com](https://harunsekmen.com)
+- **LinkedIn:** [linkedin.com/in/harunsekmen](https://www.linkedin.com/in/harunsekmen/)
+
+<p align="center">
+  <strong>Working with brands in Türkiye and worldwide.</strong><br>
+  <a href="README.tr.md">🇹🇷 Türkçe versiyonunu görüntüle</a>
+</p>
+

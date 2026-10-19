@@ -1,91 +1,104 @@
-<h1 align="center">👋 Harun Sekmen</h1>
+# 👋 Harun Sekmen
 
-<p align="center"><strong>E-Ticaret Sistemleri Mühendisi · WooCommerce Geliştiricisi</strong></p>
+<p align="center">
+  <strong>E-Ticaret Sistemleri Mühendisi · WooCommerce & WordPress Uzmanı</strong><br>
+  Özel Mağaza Mimarisi &nbsp;·&nbsp; Yüksek Performanslı Ödeme Akışları &nbsp;·&nbsp; Entegrasyonlar
+</p>
 
-<p align="center">🛒 Mağazanızı kurun &nbsp; · &nbsp; 🎨 Tasarımınızı hayata geçirin &nbsp; · &nbsp; ⚡ Alışveriş deneyimini iyileştirin</p>
+<p align="center">
+  <a href="mailto:sekmenwp@gmail.com">✉️ sekmenwp@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://harunsekmen.com">🌐 harunsekmen.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/harunsekmen/">🔗 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="README.md">🇬🇧 English</a>
+</p>
 
-<p align="center">🇹🇷 Türkçe &nbsp; · &nbsp; <a href="README.md">🇬🇧 English</a></p>
-
-<p align="center"><a href="mailto:sekmenwp@gmail.com">✉️ Projenizi konuşalım</a> &nbsp; · &nbsp; <a href="https://www.upwork.com/freelancers/~01a7a8b58043e6e6d9">💼 Upwork</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/harunsekmen/">🔗 LinkedIn</a></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-Core%20%26%20Blocks-21759b?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/WooCommerce-HPOS%20Uyumlu-7f54b3?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce">
+  <img src="https://img.shields.io/badge/PHP-8.1%20--%208.3-8892be?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B%20%26%20React-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/MySQL-Sorgu%20Optimizasyonu-4479a1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
 ---
 
-Ben Harun. **Marka kurucuları, mağaza sahipleri ve ajanslar** için WordPress ve WooCommerce geliştiriyorum. Markanıza özel e-ticaret siteleri kuruyor, hazır tasarımlarınızı mağazaya dönüştürüyor ve mevcut sitenizin alışveriş deneyimini geliştiriyorum. Görüşmeleri **Türkçe veya İngilizce** yapabiliriz.
+**Marka kurucuları, büyüyen e-ticaret işletmeleri ve dijital ajanslar** için modern WooCommerce mağazaları geliştiriyor ve ölçekliyorum. Çalışmalarım tüm alışveriş yolculuğunu kapsar: markanıza özel mağaza tasarımı, hızlı ürün sayfaları, yüksek dönüşümlü ödeme akışları ve güvenilir arka plan entegrasyonları.
 
-## 🛠️ Hangi konuda yardımcı olabilirim?
+---
+
+## 🛠️ Hizmet Alanları
 
 | İhtiyaç | Hizmet |
 | :--- | :--- |
-| 🛒 Mağaza | **E-ticaret sitesi kurma:** Markanıza özel tasarım, ürün sayfaları, sepet ve ödeme kurulumu. |
-| 🎨 Tasarım | **Figma’dan WordPress’e:** Tasarımınızı mobilde ve bilgisayarda kullanılabilen bir mağazaya dönüştürme. |
-| 📦 Taşıma | **Shopify’dan WooCommerce’e taşıma:** Ürün aktarımı, sayfa yönlendirmeleri ve yeni mağazanın kurulumu. |
-| ⚡ Hız | **WooCommerce hızlandırma:** Sitenizi yavaşlatan nedenleri bulma ve alışveriş deneyimini iyileştirme. |
-| 🔗 Bağlantı | **Mağaza entegrasyonları:** Sanal POS, kargo, stok ve işinizi yürüttüğünüz diğer sistemlerin bağlantıları. |
+| 🛒 Mağaza | **Sıfırdan mağaza kurulumu:** Markanıza, ürün kataloğunuza, sanal POS ve kargo kurallarınıza göre baştan sona WooCommerce kurulumu. |
+| 🎨 Tasarım | **Figma'dan WordPress'e:** Özel Figma tasarımlarınızı, hantal sayfa yapıcılar kullanmadan temiz ve mobil uyumlu Gutenberg bloklarına dönüştürme. |
+| 📦 Taşıma | **Shopify'dan WooCommerce'e taşıma:** Anahtar teslim taşıma: ürünler, varyantlar, müşteri hesapları, geçmiş siparişler ve 301 yönlendirmeleri. |
+| ⚡ Hız | **Hız ve performans optimizasyonu:** Sepet isteklerini önbelleğe alma, veritabanı temizliği, nesne önbelleği ve Core Web Vitals iyileştirmesi. |
+| 🔗 Bağlantı | **Özel sistem entegrasyonları:** Sanal POS (iyzico, PayTR vb.), kargo firmaları, ERP, ön muhasebe ve CRM platformları bağlantısı. |
 
-> 💬 **Yeni bir mağaza mı açıyorsunuz, mevcut sitenizi mi geliştireceksiniz?**
+> 💬 **Yeni bir mağaza mı açıyorsunuz veya mevcut sitenizi mi geliştireceksiniz?**
 >
-> Sitenizi veya tasarım bağlantınızı ve ihtiyacınızı **[sekmenwp@gmail.com](mailto:sekmenwp@gmail.com)** adresine yazın. Hedef açılış tarihinizi de paylaşarak başlayabiliriz.
-
-## 🛍️ Öne çıkan projeler
-
-Mağaza demoları ve geliştirme çalışmaları içeren kişisel açık kaynak projelerim.
-
-### 🌿 ApexCommerce · Yeni bir marka için mağaza
-
-Ürün sunumu, kayar sepet ve sayfada gezinirken erişilebilir kalan satın alma butonuyla bir kozmetik mağazası demosu.
-
-**[ApexCommerce’i incele →](https://github.com/harunsekmen/apex-commerce-d2c-starter)**
-
-<details>
-<summary>📸 Mağaza demosunu görüntüle</summary>
-
-![ApexCommerce kozmetik mağazası demosu](https://raw.githubusercontent.com/harunsekmen/apex-commerce-d2c-starter/main/docs/assets/d2c-storefront-hero.png)
-
-</details>
-
-### 👕 DawnTwin · Sade bir moda mağazası
-
-Dawn’dan ilham alan ürün sayfası, renk ve beden seçimleri ve kayar sepet içeren bir giyim mağazası demosu.
-
-**[DawnTwin’i incele →](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)**
-
-<details>
-<summary>📸 Mağaza demosunu görüntüle</summary>
-
-![DawnTwin giyim mağazası demosu](https://raw.githubusercontent.com/harunsekmen/shopify-dawn-woocommerce-twin/main/docs/assets/shopify-dawn-storefront-hero.png)
-
-</details>
-
-### 🎨 FigmaToWoo · Anlaşılır ürün sayfaları
-
-Müşterinin ürün bilgilerini kolayca bulması için karşılaştırma tablolarını ve sık sorulan sorular bölümlerini ele alan e-ticaret tasarım projesi.
-
-**[FigmaToWoo’yu incele →](https://github.com/harunsekmen/figma-to-woo-blocks-system)**
-
-## ⚙️ Diğer WooCommerce projeleri
-
-Mağazanın arkasındaki günlük ihtiyaçlara odaklanan çalışmalar: sepet güncellemeleri, ödeme hataları, sipariş verileri ve bildirimler.
-
-| Alan | Projenin odağı |
-| :--- | :--- |
-| 🛒 Sepet | **[Fast Fragments](https://github.com/harunsekmen/woo-fast-fragments)** — Müşteri gezinirken sepetin güncellenmesi. |
-| 💳 Ödeme | **[Checkout Guard](https://github.com/harunsekmen/woo-checkout-failover-guard)** — Ödeme gecikmelerinin ve hataların müşteriye açıklanması. |
-| 🗄️ Veri | **[Database Vacuum](https://github.com/harunsekmen/woo-deadlock-vacuum)** — Eski mağaza verilerinin küçük gruplar halinde temizlenmesi. |
-| 🔄 Sipariş | **[HPOS Legacy Bridge](https://github.com/harunsekmen/woo-hpos-legacy-bridge)** — Eski sipariş araçlarının yeni WooCommerce sürümleriyle uyumu. |
-| 📡 Bildirim | **[Webhook Resilience](https://github.com/harunsekmen/woo-webhook-resilience)** — Kargo ve işletme araçlarına gönderilen sipariş bildirimlerinin yeniden denenmesi. |
-
-## 🧭 İlk görüşmeden yayına
-
-1. **🔍 Planı netleştiririz** — Sayfaları, özellikleri, bütçeyi ve teslim takvimini belirleriz.
-2. **🎨 Mağazanızı incelersiniz** — Yayına çıkmadan önce çalışmayı görür ve alışveriş deneyimini denersiniz.
-3. **🚀 Yayına alır ve teslim ederiz** — Açılış hazırlıklarını tamamlar, mağazayı nasıl yöneteceğinizi belgeleriz.
+> Proje özetinizi, tasarım dosyalarınızı veya mevcut mağaza adresinizi **[sekmenwp@gmail.com](mailto:sekmenwp@gmail.com)** adresine gönderin. Kapsamı ve takvimi birlikte netleştirelim.
 
 ---
 
-## 🤝 Mağazanızı konuşalım
+## 🛍️ Öne Çıkan Mağaza ve Arayüz Projeleri
 
-Yeni bir marka kuruyor, sitenizi yeniliyor veya ajansınız için geliştirici arıyorsanız **site ya da tasarım bağlantınızı, temel ihtiyaçlarınızı ve hedef tarihinizi** paylaşın.
+Doğrudan tüketiciye satış yapan (D2C) modern markalar için geliştirdiğim açık kaynak başlangıç iskeletleri ve tasarım sistemleri:
 
-**✉️ [sekmenwp@gmail.com](mailto:sekmenwp@gmail.com)** · **💼 [Upwork](https://www.upwork.com/freelancers/~01a7a8b58043e6e6d9)**
+### 🌿 [ApexCommerce · Modern D2C Mağaza Başlangıcı](https://github.com/harunsekmen/apex-commerce-d2c-starter)
+Kayar sepet çekmecesi, dinamik ücretsiz kargo göstergesi ve yapışkan satın alma butonu içeren yüksek dönüşümlü WooCommerce başlangıç iskeleti.
 
-🇹🇷 Türkiye’deki işletmelerle ve yurt dışındaki ekiplerle çalışıyorum. **[🌍 English](README.md)**
+[![ApexCommerce Storefront Önizlemesi](https://raw.githubusercontent.com/harunsekmen/apex-commerce-d2c-starter/main/docs/assets/d2c-storefront-hero.png)](https://github.com/harunsekmen/apex-commerce-d2c-starter)
+
+---
+
+### 👕 [DawnTwin · Shopify Tarzı WooCommerce Motoru](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)
+Shopify'ın popüler Dawn tema deneyiminin kendi sunucunuzda çalışan WooCommerce uyarlaması. Minimalist tipografi, tıklanabilir varyant butonları ve sıfır komisyon.
+
+[![DawnTwin Storefront Önizlemesi](https://raw.githubusercontent.com/harunsekmen/shopify-dawn-woocommerce-twin/main/docs/assets/shopify-dawn-storefront-hero.png)](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)
+
+---
+
+### 🎨 [FigmaToWoo · E-Ticaret Blok Tasarım Sistemi](https://github.com/harunsekmen/figma-to-woo-blocks-system)
+Özel Figma tasarımlarını hızlı ve hafif WooCommerce sayfalarına dönüştürmek için geliştirilmiş modüler Gutenberg blokları (karşılaştırma tablosu, SSS akordeonu vb.).
+
+[![FigmaToWoo Blokları Önizlemesi](https://raw.githubusercontent.com/harunsekmen/figma-to-woo-blocks-system/main/docs/assets/figma-to-woo-blocks-showcase.png)](https://github.com/harunsekmen/figma-to-woo-blocks-system)
+
+---
+
+## ⚙️ Çekirdek WooCommerce Mühendisliği ve Performans
+
+WooCommerce mağazalarında sık karşılaşılan performans ve ödeme darboğazlarını çözen açık kaynak araçlar:
+
+| Alan | Proje ve odak |
+| :--- | :--- |
+| ⚡ Sepet | **[Fast Fragments](https://github.com/harunsekmen/woo-fast-fragments)** — Sepet durumunu tarayıcıda önbelleğe alarak gezinme sırasında sunucuya binen ağır istekleri ortadan kaldırır. |
+| 🛡️ Ödeme | **[Checkout Guard](https://github.com/harunsekmen/woo-checkout-failover-guard)** — Ödeme ağ geçidi geciktiğinde donan ekranı çözen ve tekrarlayan çekimleri önleyen devre kesici. |
+| 🗄️ Veri | **[Database Vacuum](https://github.com/harunsekmen/woo-deadlock-vacuum)** — Veritabanını kilitlemeden süresi dolmuş geçici verileri küçük gruplar halinde temizler. |
+| 🔄 Sipariş | **[HPOS Legacy Bridge](https://github.com/harunsekmen/woo-hpos-legacy-bridge)** — Eski eklentilerin postmeta çağrılarını yeni yüksek performanslı sipariş tablolarına (HPOS) şeffaf şekilde bağlar. |
+| 📡 Bildirim | **[Webhook Resilience](https://github.com/harunsekmen/woo-webhook-resilience)** — Başarısız webhook bildirimlerini otomatik tekrar deneyen ve tek tıkla yeniden tetikleme sağlayan kuyruk sistemi. |
+
+---
+
+## 🧭 Birlikte Nasıl Çalışırız?
+
+1. **Planlama ve Mimari:** İhtiyaçları, tasarım özelliklerini, ödeme yöntemlerini ve teslim tarihlerini belirleriz.
+2. **Test Ortamında Geliştirme:** Geliştirme süreci canlıdan izole bir test sunucusunda yürütülür; sipariş akışını ve tasarımı doğrudan deneyebilirsiniz.
+3. **Yayına Alma ve Teslim:** Kapsamlı yayın öncesi kontrolleri, ödeme testleri ve dokümantasyon ile kesintisiz açılış gerçekleştirilir.
+
+---
+
+## 📬 Projenizi Konuşalım
+
+Sıfırdan bir mağaza kurmak, Shopify'dan taşınmak veya mevcut WooCommerce altyapınızı güçlendirmek istiyorsanız doğrudan ulaşabilirsiniz:
+
+- **E-posta:** [sekmenwp@gmail.com](mailto:sekmenwp@gmail.com)
+- **Web:** [harunsekmen.com](https://harunsekmen.com)
+- **LinkedIn:** [linkedin.com/in/harunsekmen](https://www.linkedin.com/in/harunsekmen/)
+
+<p align="center">
+  <strong>Türkiye'deki ve dünyadaki markalarla çalışıyorum.</strong><br>
+  <a href="README.md">🇬🇧 View English version</a>
+</p>
+
