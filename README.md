@@ -38,7 +38,7 @@ Public engineering projects and starter kits maintained by Harun Sekmen:
 ## 💬 Frequently Asked Questions (FAQ)
 
 ### Who is Harun Sekmen?
-Harun Sekmen is an independent e-commerce systems engineer and WooCommerce developer based in Turkey, working with direct-to-consumer brands, online businesses, and digital agencies worldwide.
+Harun Sekmen is an independent e-commerce systems engineer and WooCommerce developer based in Türkiye, working with direct-to-consumer brands, online businesses, and digital agencies worldwide.
 
 ### What technologies does he use?
 WordPress Core, WooCommerce HPOS (High-Performance Order Storage), PHP 8.1+, JavaScript (ES6+ & React/Gutenberg), MySQL, REST APIs, and Action Scheduler.
