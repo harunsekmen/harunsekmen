@@ -10,11 +10,12 @@ Senior WooCommerce Systems & Performance Engineer specializing in high-concurren
 ---
 
 ## 🚀 Turnkey Store Launch & Custom Builds
-> **High-Converting D2C Storefronts Engineered for Growth**
+> **High-Converting Storefronts Engineered for Independent Brands**
 > 
-> Looking to launch a modern e-commerce brand without bloated themes or monthly app fees? I build bespoke, sub-second WooCommerce storefronts optimized for paid traffic (Meta / TikTok Ads) and maximum conversion rates.
+> Looking to launch a modern e-commerce brand without bloated themes or monthly app fees? I build bespoke, sub-second WooCommerce storefronts optimized for paid traffic and maximum conversion rates.
 > 
-> - **Flagship Starter**: Explore **[ApexCommerce D2C Starter Kit](https://github.com/harunsekmen/apex-commerce-d2c-starter)** (Native Slide Cart, 95+ Mobile PageSpeed, Instant Checkout).
+> - **D2C Modern Launch**: **[ApexCommerce D2C Starter Kit](https://github.com/harunsekmen/apex-commerce-d2c-starter)** (Native Slide Cart, 95+ Mobile PageSpeed, Instant Checkout).
+> - **Shopify Migration**: **[DawnTwin Engine](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)** (Shopify Dawn UX on WooCommerce with 0% platform transaction fees).
 > - 📩 **Direct Project Inquiry**: [Hire Harun on Upwork](https://www.upwork.com/freelancers/~01a7a8b58043e6e6d9) | Email: `sekhar38@gmail.com`
 
 ---
@@ -26,6 +27,7 @@ A suite of enterprise drop-ins engineered to eliminate the most critical bottlen
 | Repository & Solution | Problem Solved | Core Architecture |
 | :--- | :--- | :--- |
 | **[apex-commerce-d2c-starter](https://github.com/harunsekmen/apex-commerce-d2c-starter)**<br>*(Modern D2C Storefront Kit)* | Eliminates bloated multi-purpose themes and slow checkouts for new brand launches | Lightweight bespoke starter with native slide-out cart drawer, free-shipping meter, and 95+ PageSpeed. |
+| **[shopify-dawn-woocommerce-twin](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)**<br>*(Shopify-to-Woo Engine)* | Replicates Shopify Dawn design & drawer UX while cutting monthly subscriptions and 2% fee penalties | Native Dawn design tokens, AJAX slide drawer, swatch variant pills, and zero-fee direct gateway routing. |
 | **[woo-fast-fragments](https://github.com/harunsekmen/woo-fast-fragments)**<br>*(Cart Turbo Engine)* | Eliminates CPU-choking `?wc-ajax=get_refreshed_fragments` calls on every page load | HTML5 LocalStorage DOM hydration + lightweight REST endpoint. Slashes catalog TTFB by ~85%. |
 | **[woo-checkout-failover-guard](https://github.com/harunsekmen/woo-checkout-failover-guard)**<br>*(Checkout Circuit Breaker)* | Prevents cart abandonment and double-charges when Stripe/PayPal hit 504 timeouts | Asynchronous client circuit breaker halting infinite spinners with instant non-destructive recovery options. |
 | **[woo-deadlock-vacuum](https://github.com/harunsekmen/woo-deadlock-vacuum)**<br>*(Non-Blocking DB Pruner)* | Cleans millions of orphan transients without triggering MySQL Deadlock 1213 on checkouts | Indexed primary key chunking (500 rows) + Action Scheduler automation with 50ms lock-relief pauses. |
@@ -45,7 +47,7 @@ A suite of enterprise drop-ins engineered to eliminate the most critical bottlen
 
 ## 📬 Let's Connect
 
-- **Upwork / Freelance Inquiries**: Available for turnkey D2C store builds, high-impact performance audits, and HPOS migrations.
+- **Upwork / Freelance Inquiries**: Available for turnkey D2C store builds, Shopify migrations, and HPOS performance tuning.
 - **GitHub**: [github.com/harunsekmen](https://github.com/harunsekmen)
 - **LinkedIn**: [linkedin.com/in/harunsekmen](https://www.linkedin.com/in/harunsekmen/)
 
