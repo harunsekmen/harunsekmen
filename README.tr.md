@@ -24,7 +24,7 @@
 
 WooCommerce mağazası kurma, yenileme, taşıma ve geliştirme taleplerini değerlendirebiliriz. İhtiyacınıza en yakın başlıktan başlayalım:
 
-| Hedefiniz | Proje kapsamı |
+| Hedef | Proje kapsamı |
 | :--- | :--- |
 | 🛒 Mağaza | **E-ticaret sitesi kurma:** Markanıza, ürünlerinize ve müşterilerinize uygun bir WooCommerce mağazası. |
 | 🎨 Tasarım | **Figma’dan WordPress’e tasarım:** Mobil uyumlu mağaza sayfaları ve tekrar kullanılabilir bileşenler. |
