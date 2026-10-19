@@ -1,6 +1,6 @@
 # Hi there, I'm Harun Sekmen 👋
 
-Senior WooCommerce Systems & Performance Engineer specializing in high-concurrency e-commerce architectures, database throughput scaling, and zero-downtime integrations.
+Senior WooCommerce Systems & Performance Engineer specializing in high-concurrency e-commerce architectures, turnkey brand launches, and zero-downtime integrations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harun%20Sekmen-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/harunsekmen/)
 [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-14a800?style=flat&logo=upwork)](https://www.upwork.com/)
@@ -16,6 +16,7 @@ Senior WooCommerce Systems & Performance Engineer specializing in high-concurren
 > 
 > - **D2C Modern Launch**: **[ApexCommerce D2C Starter Kit](https://github.com/harunsekmen/apex-commerce-d2c-starter)** (Native Slide Cart, 95+ Mobile PageSpeed, Instant Checkout).
 > - **Shopify Migration**: **[DawnTwin Engine](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)** (Shopify Dawn UX on WooCommerce with 0% platform transaction fees).
+> - **Figma-to-Woo Conversion**: **[FigmaToWoo Blocks](https://github.com/harunsekmen/figma-to-woo-blocks-system)** (100% pixel-accurate native Gutenberg blocks with 0.00 CLS).
 > - 📩 **Direct Project Inquiry**: [Hire Harun on Upwork](https://www.upwork.com/freelancers/~01a7a8b58043e6e6d9) | Email: `sekhar38@gmail.com`
 
 ---
@@ -28,6 +29,7 @@ A suite of enterprise drop-ins engineered to eliminate the most critical bottlen
 | :--- | :--- | :--- |
 | **[apex-commerce-d2c-starter](https://github.com/harunsekmen/apex-commerce-d2c-starter)**<br>*(Modern D2C Storefront Kit)* | Eliminates bloated multi-purpose themes and slow checkouts for new brand launches | Lightweight bespoke starter with native slide-out cart drawer, free-shipping meter, and 95+ PageSpeed. |
 | **[shopify-dawn-woocommerce-twin](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)**<br>*(Shopify-to-Woo Engine)* | Replicates Shopify Dawn design & drawer UX while cutting monthly subscriptions and 2% fee penalties | Native Dawn design tokens, AJAX slide drawer, swatch variant pills, and zero-fee direct gateway routing. |
+| **[figma-to-woo-blocks-system](https://github.com/harunsekmen/figma-to-woo-blocks-system)**<br>*(Figma Component Blocks)* | Translates Figma UI kits into native WordPress blocks without Elementor/Divi bloat | 15 conversion-tested Gutenberg blocks mirroring Figma auto-layout with guaranteed 0.00 CLS. |
 | **[woo-fast-fragments](https://github.com/harunsekmen/woo-fast-fragments)**<br>*(Cart Turbo Engine)* | Eliminates CPU-choking `?wc-ajax=get_refreshed_fragments` calls on every page load | HTML5 LocalStorage DOM hydration + lightweight REST endpoint. Slashes catalog TTFB by ~85%. |
 | **[woo-checkout-failover-guard](https://github.com/harunsekmen/woo-checkout-failover-guard)**<br>*(Checkout Circuit Breaker)* | Prevents cart abandonment and double-charges when Stripe/PayPal hit 504 timeouts | Asynchronous client circuit breaker halting infinite spinners with instant non-destructive recovery options. |
 | **[woo-deadlock-vacuum](https://github.com/harunsekmen/woo-deadlock-vacuum)**<br>*(Non-Blocking DB Pruner)* | Cleans millions of orphan transients without triggering MySQL Deadlock 1213 on checkouts | Indexed primary key chunking (500 rows) + Action Scheduler automation with 50ms lock-relief pauses. |
