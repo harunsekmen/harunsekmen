@@ -30,7 +30,7 @@ I help brands launch, redesign, migrate and improve WooCommerce stores. Start wi
 | 🎨 Custom design | **Figma to WordPress development:** Responsive storefront pages and reusable components. |
 | 📦 Migration | **Shopify to WooCommerce migration:** Catalog transfer, URL redirects, design and payment setup. |
 | ⚡ Faster store | **WooCommerce speed optimization:** Measure loading times, cart requests and database bottlenecks. |
-| 🔗 Integrations | **Payment, shipping and inventory integrations:** Scope connections to payment providers, ERP and CRM tools. |
+| 🔗 Connect tools | **Payment, shipping and inventory integrations:** Scope connections to payment providers, ERP and CRM tools. |
 
 > 💬 **Planning a new store or improving one?**
 >
