@@ -94,6 +94,6 @@ WooCommerce hızlandırma çalışması mevcut mağazanın ölçümüyle; Shopif
 
 <p>✉️ <a itemprop="email" href="mailto:sekmenwp@gmail.com">sekmenwp@gmail.com</a><br>🔗 <a itemprop="url" href="https://github.com/harunsekmen">GitHub</a> · <a href="https://www.upwork.com/freelancers/~01a7a8b58043e6e6d9">Upwork</a> · <a href="https://www.linkedin.com/in/harunsekmen/">LinkedIn</a></p>
 
-[🇬🇧 English](README.md) · [ℹ️ Profil yapısı ve schema notları (EN)](docs/profile-structure.md)
+[🇬🇧 English](README.md)
 
 </div>

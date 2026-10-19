@@ -94,6 +94,6 @@ A WooCommerce speed project starts with measurements of the actual store. A Shop
 
 <p>✉️ <a itemprop="email" href="mailto:sekmenwp@gmail.com">sekmenwp@gmail.com</a><br>🔗 <a itemprop="url" href="https://github.com/harunsekmen">GitHub</a> · <a href="https://www.upwork.com/freelancers/~01a7a8b58043e6e6d9">Upwork</a> · <a href="https://www.linkedin.com/in/harunsekmen/">LinkedIn</a></p>
 
-[🇹🇷 Türkçe](README.tr.md) · [ℹ️ Profile structure & schema notes](docs/profile-structure.md)
+[🇹🇷 Türkçe](README.tr.md)
 
 </div>
