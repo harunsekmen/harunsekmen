@@ -24,6 +24,7 @@ Harun Sekmen; özel WooCommerce mağaza kurulumu, Figma'dan WordPress'e tasarım
 
 Harun Sekmen tarafından geliştirilen ve bakımı yapılan açık kaynak e-ticaret depoları:
 
+- **[Aurivita Teması](https://github.com/harunsekmen/aurivita-single-product-theme)** — Porsiyon seçicileri, kademeli paket tasarruf kartları, müşteri video kanıtları ve yapışkan satın alma butonu içeren tek ürün teması.
 - **[ApexCommerce](https://github.com/harunsekmen/apex-commerce-d2c-starter)** — Kayar sepet çekmecesi, ücretsiz kargo göstergesi ve yapışkan satın alma butonu içeren D2C başlangıç iskeleti.
 - **[DawnTwin](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)** — Shopify Dawn temasının sıfır komisyon ve tam veri sahipliğiyle WooCommerce üzerinde çalışan uyarlaması.
 - **[FigmaToWoo](https://github.com/harunsekmen/figma-to-woo-blocks-system)** — Figma tasarımlarını hafif WooCommerce sayfalarına dönüştüren modüler Gutenberg blok sistemi.

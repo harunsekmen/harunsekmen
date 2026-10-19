@@ -24,6 +24,7 @@ Harun Sekmen is an e-commerce developer specializing in custom WooCommerce store
 
 Public engineering projects and starter kits maintained by Harun Sekmen:
 
+- **[Aurivita Theme](https://github.com/harunsekmen/aurivita-single-product-theme)** — D2C single product theme featuring portion selectors, tiered bundle savings cards, video testimonials, and a sticky purchase trigger.
 - **[ApexCommerce](https://github.com/harunsekmen/apex-commerce-d2c-starter)** — D2C WooCommerce starter kit with native slide-out cart drawer, free-shipping meter, and sticky checkout.
 - **[DawnTwin](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)** — Shopify Dawn theme UX recreated natively on WooCommerce with zero platform transaction fees.
 - **[FigmaToWoo](https://github.com/harunsekmen/figma-to-woo-blocks-system)** — Modular Gutenberg block system designed to translate Figma auto-layout designs into WooCommerce sections.
