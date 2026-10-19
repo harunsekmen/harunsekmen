@@ -24,7 +24,7 @@
 > - **Shopify-to-WooCommerce Migrations**: Full product, customer, and historical order migration with 0% platform transaction cuts.
 > - **Enterprise Scaling & HPOS**: Eliminating checkout deadlocks, optimizing database throughput, and resolving 504 gateway drops.
 > 
-> 📩 **Direct Consultation**: [Book a Project on Upwork](https://www.upwork.com/freelancers/~01a7a8b58043e6e6d9) • Direct Email: `sekhar38@gmail.com`
+> 📩 **Direct Consultation**: [Book a Project on Upwork](https://www.upwork.com/freelancers/~01a7a8b58043e6e6d9) • Direct Email: `sekmenwp@gmail.com`
 
 ---
 
@@ -98,7 +98,7 @@ Production-grade drop-ins and architectures built to eliminate the most critical
   <p>
     <a href="https://www.upwork.com/freelancers/~01a7a8b58043e6e6d9"><strong>Hire on Upwork</strong></a> • 
     <a href="https://www.linkedin.com/in/harunsekmen/"><strong>Connect on LinkedIn</strong></a> • 
-    <a href="mailto:sekhar38@gmail.com"><strong>sekhar38@gmail.com</strong></a>
+    <a href="mailto:sekmenwp@gmail.com"><strong>sekmenwp@gmail.com</strong></a>
   </p>
 </div>
 
