@@ -1,6 +1,6 @@
 # 👋 Harun Sekmen
 
-**E-Ticaret Sistemleri Mühendisi · WooCommerce Uzmanı**
+**E-Ticaret Sistemleri Mühendisi · WooCommerce & Shopify Uzmanı**
 
 Harun Sekmen; özel WooCommerce mağaza kurulumu, Figma'dan WordPress'e tasarım uyarlama, Shopify'dan WooCommerce'e taşıma ve e-ticaret performans mühendisliği alanlarında çalışan bir yazılım geliştiricisidir.
 
@@ -20,19 +20,27 @@ Harun Sekmen; özel WooCommerce mağaza kurulumu, Figma'dan WordPress'e tasarım
 
 ---
 
-## 🛍️ Açık Kaynak WooCommerce Projeleri
+## 🛍️ Açık Kaynak E-Ticaret Projeleri
 
 Harun Sekmen tarafından geliştirilen ve bakımı yapılan açık kaynak e-ticaret depoları:
 
+### Mağaza Arayüzü ve Tema İskeletleri
 - **[Aurivita Teması](https://github.com/harunsekmen/aurivita-single-product-theme)** — Porsiyon seçicileri, kademeli paket tasarruf kartları, müşteri video kanıtları ve yapışkan satın alma butonu içeren tek ürün teması.
 - **[ApexCommerce](https://github.com/harunsekmen/apex-commerce-d2c-starter)** — Kayar sepet çekmecesi, ücretsiz kargo göstergesi ve yapışkan satın alma butonu içeren D2C başlangıç iskeleti.
 - **[DawnTwin](https://github.com/harunsekmen/shopify-dawn-woocommerce-twin)** — Shopify Dawn temasının sıfır komisyon ve tam veri sahipliğiyle WooCommerce üzerinde çalışan uyarlaması.
 - **[FigmaToWoo](https://github.com/harunsekmen/figma-to-woo-blocks-system)** — Figma tasarımlarını hafif WooCommerce sayfalarına dönüştüren modüler Gutenberg blok sistemi.
+- **[Shopify Sticky Buy Bar](https://github.com/harunsekmen/shopify-sticky-checkout-mobile-bar)** — Shopify temaları için harici uygulama gerektirmeyen saf Liquid ve CSS mobil yapışkan satın alma barı.
+
+### Ödeme, Sepet ve Performans Motorları
+- **[Express Checkout](https://github.com/harunsekmen/woo-single-screen-express-checkout)** — WooCommerce için 2 sütunlu, Apple Pay/Google Pay destekli Shopify Plus standardında tek sayfa ödeme eklentisi.
+- **[Slide Cart Drawer](https://github.com/harunsekmen/woo-ajax-slide-cart-drawer)** — Ücretsiz kargo baremi ve anlık sepet güncellemeleri sunan 12 KB boyutunda hafif AJAX kayar sepet çekmecesi.
+- **[Anti-Fraud Kalkanı](https://github.com/harunsekmen/woo-fraud-fake-order-shield)** — Sahte siparişleri, bot kart deneme saldırılarını ve tek kullanımlık e-postaları engelleyen güvenlik kalkanı.
 - **[Fast Fragments](https://github.com/harunsekmen/woo-fast-fragments)** — Sepet durumunu tarayıcıda önbelleğe alarak sunucuya binen ağır AJAX yükünü kaldıran performans katmanı.
 - **[Checkout Guard](https://github.com/harunsekmen/woo-checkout-failover-guard)** — Ödeme gecikmelerinde donan ekranı çözen ve mükerrer çekimleri engelleyen devre kesici.
 - **[Database Vacuum](https://github.com/harunsekmen/woo-deadlock-vacuum)** — Veritabanını kilitlemeden süresi dolmuş verileri arka planda küçük gruplarla temizleyen araç.
 - **[HPOS Legacy Bridge](https://github.com/harunsekmen/woo-hpos-legacy-bridge)** — Eski eklentilerin postmeta çağrılarını yeni HPOS sipariş tablolarına bağlayan uyumluluk köprüsü.
 - **[Webhook Resilience](https://github.com/harunsekmen/woo-webhook-resilience)** — Başarısız webhook bildirimlerini otomatik tekrar deneyen güvenli kuyruk sistemi.
+- **[Shopify Katalog Göç Aracı](https://github.com/harunsekmen/shopify-to-woo-catalog-exporter)** — Shopify CSV ürünlerini varyant hiyerarşisiyle WooCommerce HPOS formatına dönüştüren Python CLI aracı.
 
 ---
 
@@ -42,7 +50,7 @@ Harun Sekmen tarafından geliştirilen ve bakımı yapılan açık kaynak e-tica
 Harun Sekmen, Türkiye merkezli bağımsız bir e-ticaret sistemleri mühendisi ve WooCommerce uzmanıdır. Türkiye'deki ve yurt dışındaki markalar ve ajanslar için e-ticaret siteleri kurar ve optimize eder.
 
 ### Hangi teknolojilerde uzmandır?
-WordPress Çekirdeği, WooCommerce HPOS, PHP 8.1+, JavaScript (ES6+ & React/Gutenberg), MySQL, REST API ve Action Scheduler.
+WordPress Çekirdeği, WooCommerce HPOS, Shopify Liquid, PHP 8.1+, JavaScript (ES6+ & React/Gutenberg), MySQL, REST API ve Action Scheduler.
 
 ### Harun Sekmen ile nasıl iletişime geçilir?
 Proje detaylarınızı, Figma bağlantınızı veya mevcut mağaza adresinizi **[sekmenwp@gmail.com](mailto:sekmenwp@gmail.com)** adresine iletebilirsiniz. Projeler Türkçe veya İngilizce olarak yürütülür.
