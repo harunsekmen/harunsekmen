@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/harunsekmen-profile-banner.png" alt="Harun Sekmen · E-Ticaret Sistemleri Mühendisi ve WooCommerce Uzmanı" width="100%">
+</p>
+
 # 👋 Harun Sekmen
 
 **E-Ticaret Sistemleri Mühendisi · WooCommerce & Shopify Uzmanı**
@@ -21,6 +25,10 @@ Harun Sekmen; özel WooCommerce mağaza kurulumu, Figma'dan WordPress'e tasarım
 ---
 
 ## 🛍️ Açık Kaynak E-Ticaret Projeleri
+
+<p align="center">
+  <img src="assets/storefront-demo-showcase.png" alt="WooCommerce D2C Mağaza ve Ödeme Mimarisi Önizlemesi" width="100%">
+</p>
 
 Harun Sekmen tarafından geliştirilen ve bakımı yapılan açık kaynak e-ticaret depoları:
 

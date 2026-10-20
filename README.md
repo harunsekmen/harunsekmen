@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/harunsekmen-profile-banner.png" alt="Harun Sekmen · E-Commerce Systems Engineer & WooCommerce Specialist" width="100%">
+</p>
+
 # 👋 Harun Sekmen
 
 **E-Commerce Systems Engineer · WooCommerce & Shopify Specialist**
@@ -21,6 +25,10 @@ Harun Sekmen is an e-commerce developer specializing in custom WooCommerce store
 ---
 
 ## 🛍️ Open-Source E-Commerce Projects
+
+<p align="center">
+  <img src="assets/storefront-demo-showcase.png" alt="WooCommerce D2C Storefront & Checkout Architecture Showcase" width="100%">
+</p>
 
 Public engineering projects, extensions, and architecture kits maintained by Harun Sekmen:
 
